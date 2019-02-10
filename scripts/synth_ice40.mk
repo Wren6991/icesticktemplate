@@ -60,5 +60,5 @@ prog: $(CHIPNAME).bin
 
 clean::
 	rm -f $(CHIPNAME).json $(CHIPNAME).asc $(CHIPNAME).bin 
-	rm -f synth.log pnr.logs
+	rm -f synth.log pnr.log
 	rm -f srcs.mk
