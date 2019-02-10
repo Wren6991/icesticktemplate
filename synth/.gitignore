@@ -1,0 +1,7 @@
+srcs.mk
+*.blif
+*.asc
+
+*.bin
+chip.json
+*.log
